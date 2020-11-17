@@ -1,5 +1,7 @@
 # Usage
 
+Packaged binaries can be downloaded from [releases](https://github.com/taavettik/po2xls/releases)
+
 ```bash
 # Basic usage
 $ ./poxls-linux <source> <target>
